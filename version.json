@@ -8,7 +8,7 @@
         },
         "lucky_hash": {
             "version": "1.0",
-            "trang_thai": false,
+            "trang_thai": true,
             "name":"lucky_hash.py"
         },
         "vtd": {
