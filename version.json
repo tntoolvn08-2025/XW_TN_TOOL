@@ -1,0 +1,21 @@
+{
+    "version": "1.2",
+    "game_version": {
+        "lotto": {
+            "version": "1.0",
+            "trang_thai": true
+        },
+        "lucky_hash": {
+            "version": "1.0",
+            "trang_thai": false
+        },
+        "vtd": {
+            "version": "1.0",
+            "trang_thai": false
+        },
+        "vth": {
+            "version": "1.0",
+            "trang_thai": false
+        }
+    }
+}
