@@ -3,19 +3,23 @@
     "game_version": {
         "lotto": {
             "version": "1.0",
-            "trang_thai": true
+            "trang_thai": true,
+            "name":"lotto.py"
         },
         "lucky_hash": {
             "version": "1.0",
-            "trang_thai": false
+            "trang_thai": false,
+            "name":"lucky_hash.py"
         },
         "vtd": {
             "version": "1.0",
-            "trang_thai": false
+            "trang_thai": false,
+            "name":"vtd.py"
         },
         "vth": {
             "version": "1.0",
-            "trang_thai": false
+            "trang_thai": false,
+            "name":"vth.py"
         }
     }
 }
