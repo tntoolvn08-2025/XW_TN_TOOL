@@ -3,7 +3,7 @@
     "game_version": {
         "lotto": {
             "version": "1.0",
-            "trang_thai": true,
+            "trang_thai": false,
             "name":"lotto.py"
         },
         "lucky_hash": {
